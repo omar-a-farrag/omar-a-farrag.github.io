@@ -36,7 +36,7 @@ author_profile: true
      </div>
    </details>
 
-3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5 ** — \[[Paper forthcoming]()\] \[[Slides coming soon](#)\] \[[Codes](#)\]
+3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5** — \[[Paper forthcoming]()\] \[[Slides coming soon](#)\] \[[Codes](#)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
