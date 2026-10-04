@@ -146,7 +146,6 @@ author_profile: true
     </div>
   </div>
 </details>
-## Policy Papers & Other Writing
 
 ## Policy Papers & Other Writing
 
