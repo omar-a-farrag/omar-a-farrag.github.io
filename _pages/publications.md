@@ -29,7 +29,7 @@ author_profile: true
      </div>
    </details>
 
-3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5** — \[[Paper coming soon]()\] \[[Slides coming soon](#)\] \[[Codes](#)\]
+3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5** — \[[Paper coming soon]()\] \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] \[[Codes](#)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
@@ -98,13 +98,13 @@ author_profile: true
      </div>
    </details>
 
-5. **Who Bears the Sacrifice? Exploring Collection Across the Income Distribution** — \[[Proposal](#)\] 
+5. **Who Bears the Sacrifice? Exploring Collection Across the Income Distribution** — \[[Proposal](https://www.dropbox.com/scl/fi/r6jj9c4gnj4asqv5yba6r/research_proposal_omar_farrag.docx?rlkey=hwqajmj2kdw1jupspljt36n1s&st=l5245gqk&dl=0)\] 
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
        <p style="margin-top: 0;">In developing countries, informality allows certain low-income groups to fly under the radar and thus avoid taxes. Along with evasion from high-income groups, this potentially squeezes the middle class. Consequently, I investigate which income group bears the greatest effective burden when a developing state increases demand for income tax revenue. To do so, I construct a discrete choice model incorporating the canonical work of Allingham and Sandmo (1972) on tax evasion with an additional dynamic of state decision making, revealing a potential "cat-and-mouse" game between the state and the wealthiest class. Empirically, I deconstruct income tax revenue along the growth paths of the United States and Singapore.</p>
        
-       <img src="../images/tax-evasion-graph.png" alt="Tax collection graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
+       <img src="../images/tax_proposal_decomp.png" alt="Tax collection graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
      </div>
    </details>
    
