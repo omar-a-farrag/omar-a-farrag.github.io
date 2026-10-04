@@ -44,7 +44,7 @@ author_profile: true
          <p style="margin-top: 0;">Abstract coming soon.</p>
        </div>
        <div style="flex: 40%;">
-         <img src="../images/npma-graph.png" alt="NPMA outcomes graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px;">
+         <img src="../images/asean_nowcast_table2.png" alt="NPMA outcomes graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px;">
        </div>
      </div>
    </details>
