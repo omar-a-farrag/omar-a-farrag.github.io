@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
-<hr style="border: none; border-bottom: 2px solid #737373; margin-top: -10px; margin-bottom: 15px;">
+<hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
 1. **Addressing Pain Through Incentives: Patient Experience Rewards and Opioid Use** (with [Qing Gong](https://sites.google.com/site/qgongecon/) and [Klara Peter](https://www.cpc.unc.edu/people/fellows/klara-peter/)) — \[[Paper](https://www.dropbox.com/scl/fi/zvn5zxpzn4b7f9mopmae3/Opioid-paper-v5.pdf?rlkey=o777822j7f3d1zi0f4ps6xhia&st=c5cen9zf&e=1&dl=0)\]
    <br> *Revise and resubmit, American Journal of Health Economics*
@@ -37,7 +37,7 @@ author_profile: true
    </details>
 
 ## Research In Progress
-<hr style="border: none; border-bottom: 2px solid #000080; margin-top: -10px; margin-bottom: 15px;">
+<hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
 1. **Who Bears the Sacrifice? Exploring Collection Across the Income Distribution** — \[[Proposal](#)\] 
    <details style="margin-top: 5px; margin-bottom: 15px;">
@@ -138,7 +138,7 @@ author_profile: true
    </details>
 
 ## Policy Papers & Other Writing
-<hr style="border: none; border-bottom: 2px solid #000080; margin-top: -10px; margin-bottom: 15px;">
+<hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
 1. **India and the Global Economy** (with [Patrice Robitaille](https://www.federalreserve.gov/econres/patrice-t-robitaille.htm)), April 2026 — \[[FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/india-and-the-global-economy-20260408.html)\]
    <br> Farrag, Omar, and Patrice Robitaille (2026). "India and the Global Economy," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, April 08, 2026.
