@@ -36,6 +36,19 @@ author_profile: true
      </div>
    </details>
 
+3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5 ** — \[[Paper forthcoming]()\] \[[Slides coming soon](#)\] \[[Codes](#)\]
+   <details style="margin-top: 5px; margin-bottom: 15px;">
+     <summary style="cursor: pointer;">Abstract</summary>
+     <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
+       <div style="flex: 60%;">
+         <p style="margin-top: 0;">Abstract forthcoming.</p>
+       </div>
+       <div style="flex: 40%;">
+         <img src="../images/npma-graph.png" alt="NPMA outcomes graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px;">
+       </div>
+     </div>
+   </details>
+
 ## Research In Progress
 <hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
@@ -69,24 +82,7 @@ author_profile: true
      </div>
    </details>
 
-3. **Forecasting GDP for the ASEAN-5 using a DFM** (with [Danilo Cascaldi-Garcia](https://sites.google.com/site/cascaldigarcia/))
-   <details style="margin-top: 5px; margin-bottom: 15px;">
-     <summary style="cursor: pointer;">Abstract</summary>
-     <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-       <div style="flex: 60%;">
-         <ul style="margin-top: 0; padding-left: 20px;">
-           <li><strong>Question:</strong> Using a Dynammic Factor Model (DFM), can we successfully nowcast GDP for the individual ASEAN-5 countries and as an aggregate better than conventional forecasting methods?</li>
-           <li><strong>Method:</strong> Isolating a training period that reduces noise; implementing a COVID factor for DFM; running variable selection on data before feeding DFM.</li>
-           <li><strong>Data:</strong> Hard and soft macro-indicators from national statistical agencies, 1990-2026.</li>
-         </ul>
-       </div>
-       <div style="flex: 40%;">
-         <img src="../images/asean-dfm-graph.png" alt="ASEAN DFM forecasting graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px;">
-       </div>
-     </div>
-   </details>
-
-4. **Explaining the Reporting Gap Reversal in US-China Trade** (with [Eva Van Leemput](https://sites.google.com/site/evavanleemput)) — \[[Slides](https://www.dropbox.com/scl/fi/ktc7gqgpomzkdpwlzmxt4/US_China_Trade_Balance__Copy_.pdf?rlkey=i1q7vilula6z9k784xcldqnb0&st=9xekaezm&e=1&dl=0)\] \[[Codes](#)\]
+3. **Explaining the Reporting Gap Reversal in US-China Trade** (with [Eva Van Leemput](https://sites.google.com/site/evavanleemput)) — \[[Slides](https://www.dropbox.com/scl/fi/ktc7gqgpomzkdpwlzmxt4/US_China_Trade_Balance__Copy_.pdf?rlkey=i1q7vilula6z9k784xcldqnb0&st=9xekaezm&e=1&dl=0)\] \[[Codes](#)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
@@ -103,7 +99,7 @@ author_profile: true
      </div>
    </details>
 
-5. **Sectoral Mobility Costs Across Heterogeneous Workers** (with [Gary Lyn](https://sites.google.com/site/garyanthonylyn/home)) — \[[Slides](https://www.dropbox.com/scl/fi/y85sac0d8xa3gbrs54eaz/Labor_Mobility_Costs.pdf?rlkey=o23e7yvbrolk5282f4epkknad&st=9774kx7e&e=1&dl=0)\] \[[Codes](#)\]
+4. **Sectoral Mobility Costs Across Heterogeneous Workers** (with [Gary Lyn](https://sites.google.com/site/garyanthonylyn/home)) — \[[Slides](https://www.dropbox.com/scl/fi/y85sac0d8xa3gbrs54eaz/Labor_Mobility_Costs.pdf?rlkey=o23e7yvbrolk5282f4epkknad&st=9774kx7e&e=1&dl=0)\] \[[Codes](#)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
@@ -120,7 +116,7 @@ author_profile: true
      </div>
    </details>
 
-6. **Provision of Services Following Individual Mandate Repeal** (with [Qing Gong](https://sites.google.com/site/qgongecon/)) — \[[Prelim Graphs](https://docs.google.com/presentation/d/1eI-T6ZH8nLCWnvVQEhvEJnMBZoaxf6T797LzSXi3uq8/edit?slide=id.p#slide=id.p)\]
+5. **Provision of Services Following Individual Mandate Repeal** (with [Qing Gong](https://sites.google.com/site/qgongecon/)) — \[[Prelim Graphs](https://docs.google.com/presentation/d/1eI-T6ZH8nLCWnvVQEhvEJnMBZoaxf6T797LzSXi3uq8/edit?slide=id.p#slide=id.p)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
@@ -143,7 +139,7 @@ author_profile: true
 1. **India and the Global Economy** (with [Patrice Robitaille](https://www.federalreserve.gov/econres/patrice-t-robitaille.htm)), April 2026 — \[[FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/india-and-the-global-economy-20260408.html)\]
    <br> Farrag, Omar, and Patrice Robitaille (2026). "India and the Global Economy," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, April 08, 2026.
 
-2. **Health or Satisfaction? Investigating the Link Between Patient Satisfaction Scores and Provider Prescribing Patterns** (undergrad Honors Thesis), April 2024 — \[[UNC version](https://cdr.lib.unc.edu/concern/honors_theses/3484zt643?locale=en)\] \[[Slides](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\]
+2. **Health or Satisfaction? Investigating the Link Between Patient Satisfaction Scores and Provider Prescribing Patterns** (undergraduate Honors Thesis), April 2024 — \[[UNC version](https://cdr.lib.unc.edu/concern/honors_theses/3484zt643?locale=en)\] \[[Slides](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
