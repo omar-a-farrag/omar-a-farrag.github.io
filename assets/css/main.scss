@@ -48,3 +48,8 @@
     border-bottom: none !important;
 }
 
+/* Custom Section Header Underlines */
+.page__content h2 {
+    border-bottom: 4px solid #000080 !important; 
+    padding-bottom: 5px; 
+}
