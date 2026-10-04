@@ -18,7 +18,7 @@ author_profile: true
        </div>
        <div style="flex: 40%;">
          <!-- Upload your graph to the /images/ folder in your repo and change the file name below -->
-         <img src="../images/opioid-incentives-graph.png" alt="Opioid incentives graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px;">
+         <img src="../images/vbp_figure3.png" alt="Opioid incentives graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px;">
        </div>
      </div>
    </details>
