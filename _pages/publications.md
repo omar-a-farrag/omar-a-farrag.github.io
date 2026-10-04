@@ -52,20 +52,7 @@ author_profile: true
 ## Research In Progress
 <hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
-1. **Who Bears the Sacrifice? Exploring Collection Across the Income Distribution** — \[[Proposal](#)\] 
-   <details style="margin-top: 5px; margin-bottom: 15px;">
-     <summary style="cursor: pointer;">Abstract</summary>
-     <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-       <div style="flex: 60%;">
-         <p style="margin-top: 0;">In developing countries, informality allows certain low-income groups to fly under the radar and thus avoid taxes. Along with evasion from high-income groups, this potentially squeezes the middle class. Consequently, I investigate which income group bears the greatest effective burden when a developing state increases demand for income tax revenue. To do so, I construct a discrete choice model incorporating the canonical work of Allingham and Sandmo (1972) on tax evasion with an additional dynamic of state decision making, revealing a potential "cat-and-mouse" game between the state and the wealthiest class. Empirically, I deconstruct income tax revenue along the growth paths of the United States and Singapore.</p>
-       </div>
-       <div style="flex: 40%;">
-         <img src="../images/tax-evasion-graph.png" alt="Tax collection graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px;">
-       </div>
-     </div>
-   </details>
-
-2. **Patent Renewal and Creative Destruction** (with [Harun Alp](https://www.harunalp.net/)) — \[[Slides](https://www.dropbox.com/scl/fi/002d6lpjfp4x2adkt3x8d/Patents_and_Creative_Destruction-4.pdf?rlkey=kdhim0yo777xjzbn4edsukukj&st=nrxl5zov&e=1&dl=0)\] \[[Codes](#)\]
+1. **Patent Renewal and Creative Destruction** (with [Harun Alp](https://www.harunalp.net/)) — \[[Slides](https://www.dropbox.com/scl/fi/002d6lpjfp4x2adkt3x8d/Patents_and_Creative_Destruction-4.pdf?rlkey=kdhim0yo777xjzbn4edsukukj&st=nrxl5zov&e=1&dl=0)\] \[[Codes](#)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
@@ -82,7 +69,7 @@ author_profile: true
      </div>
    </details>
 
-3. **Explaining the Reporting Gap Reversal in US-China Trade** (with [Eva Van Leemput](https://sites.google.com/site/evavanleemput)) — \[[Slides](https://www.dropbox.com/scl/fi/ktc7gqgpomzkdpwlzmxt4/US_China_Trade_Balance__Copy_.pdf?rlkey=i1q7vilula6z9k784xcldqnb0&st=9xekaezm&e=1&dl=0)\] \[[Codes](#)\]
+2. **Explaining the Reporting Gap Reversal in US-China Trade** (with [Eva Van Leemput](https://sites.google.com/site/evavanleemput)) — \[[Slides](https://www.dropbox.com/scl/fi/ktc7gqgpomzkdpwlzmxt4/US_China_Trade_Balance__Copy_.pdf?rlkey=i1q7vilula6z9k784xcldqnb0&st=9xekaezm&e=1&dl=0)\] \[[Codes](#)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
@@ -99,7 +86,7 @@ author_profile: true
      </div>
    </details>
 
-4. **Sectoral Mobility Costs Across Heterogeneous Workers** (with [Gary Lyn](https://sites.google.com/site/garyanthonylyn/home)) — \[[Slides](https://www.dropbox.com/scl/fi/y85sac0d8xa3gbrs54eaz/Labor_Mobility_Costs.pdf?rlkey=o23e7yvbrolk5282f4epkknad&st=9774kx7e&e=1&dl=0)\] \[[Codes](#)\]
+3. **Sectoral Mobility Costs Across Heterogeneous Workers** (with [Gary Lyn](https://sites.google.com/site/garyanthonylyn/home)) — \[[Slides](https://www.dropbox.com/scl/fi/y85sac0d8xa3gbrs54eaz/Labor_Mobility_Costs.pdf?rlkey=o23e7yvbrolk5282f4epkknad&st=9774kx7e&e=1&dl=0)\] \[[Codes](#)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
@@ -116,7 +103,7 @@ author_profile: true
      </div>
    </details>
 
-5. **Provision of Services Following Individual Mandate Repeal** (with [Qing Gong](https://sites.google.com/site/qgongecon/)) — \[[Prelim Graphs](https://docs.google.com/presentation/d/1eI-T6ZH8nLCWnvVQEhvEJnMBZoaxf6T797LzSXi3uq8/edit?slide=id.p#slide=id.p)\]
+4. **Provision of Services Following Individual Mandate Repeal** (with [Qing Gong](https://sites.google.com/site/qgongecon/)) — \[[Prelim Graphs](https://docs.google.com/presentation/d/1eI-T6ZH8nLCWnvVQEhvEJnMBZoaxf6T797LzSXi3uq8/edit?slide=id.p#slide=id.p)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
@@ -133,6 +120,19 @@ author_profile: true
      </div>
    </details>
 
+5. **Who Bears the Sacrifice? Exploring Collection Across the Income Distribution** — \[[Proposal](#)\] 
+   <details style="margin-top: 5px; margin-bottom: 15px;">
+     <summary style="cursor: pointer;">Abstract</summary>
+     <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
+       <div style="flex: 60%;">
+         <p style="margin-top: 0;">In developing countries, informality allows certain low-income groups to fly under the radar and thus avoid taxes. Along with evasion from high-income groups, this potentially squeezes the middle class. Consequently, I investigate which income group bears the greatest effective burden when a developing state increases demand for income tax revenue. To do so, I construct a discrete choice model incorporating the canonical work of Allingham and Sandmo (1972) on tax evasion with an additional dynamic of state decision making, revealing a potential "cat-and-mouse" game between the state and the wealthiest class. Empirically, I deconstruct income tax revenue along the growth paths of the United States and Singapore.</p>
+       </div>
+       <div style="flex: 40%;">
+         <img src="../images/tax-evasion-graph.png" alt="Tax collection graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px;">
+       </div>
+     </div>
+   </details>
+   
 ## Policy Papers & Other Writing
 <hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
