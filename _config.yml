@@ -23,7 +23,7 @@ repository               : "omar-a-farrag/sandbox-staging"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Omar Farrag"
   pronouns         : # example: "he/him"  
   bio              : "RA at the Federal Reserve Board, Division of International Finance"
