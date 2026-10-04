@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Omar Farrag / Omar Farrag"
+title                    : "Omar Farrag"
 title_separator          : "-"
 name                     : &name "Omar Farrag"
 description              : &description "Omar Farrag's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,8 +27,8 @@ author:
   name             : "Omar Farrag"
   pronouns         : # example: "he/him"  
   bio              : "RA at Federal Reserve Board, Division of International Finance"
-  location         : "Washington, DC"
-  employer         : "Federal Reserve Board of Governors"
+  location         : "Washington, D.C."
+  employer         : "Federal Reserve Board"
   uri              : # URL
   email            : "omar.a.farrag@frb.gov" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0001-3003-7846"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
