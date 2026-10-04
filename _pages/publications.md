@@ -66,7 +66,7 @@ author_profile: true
          <li><strong>Data:</strong> HS Trade (via US Census Bureau); UN Comtrade, 2010-2025.</li>
        </ul>
        
-       <img src="../images/trade-gap-graph.png" alt="Trade gap reversal graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
+       <img src="../images/us_china_margin_emerging_asia.png" alt="Trade gap reversal graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
      </div>
    </details>
 
@@ -80,7 +80,7 @@ author_profile: true
          <li><strong>Data:</strong> ASEC/March CPS, 1977-2025.</li>
        </ul>
        
-       <img src="../images/sectoral-mobility-graph.png" alt="Sectoral mobility graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
+       <img src="../images/moving_costs_figure.png" alt="Sectoral mobility graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
      </div>
    </details>
 
@@ -94,7 +94,7 @@ author_profile: true
          <li><strong>Data:</strong> Healthcare Cost and Utilization Project datasets (SASD/SID/SEDD), NYS (2006-2022).</li>
        </ul>
        
-       <img src="../images/aca-mandate-graph.png" alt="ACA mandate response graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
+       <img src="../images/aca_investigation.png" alt="ACA mandate response graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
      </div>
    </details>
 
@@ -120,6 +120,6 @@ author_profile: true
      <div style="margin-top: 10px; margin-bottom: 10px;">
        <p style="margin-top: 0;">In 2006, the Centers of Medicare and Medicaid Services (CMS) introduced the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS), which were made public quarterly beginning in 2008 and are based on subjective measures of patient satisfaction. We suspect these scores create additional incentives driving inefficient prescribing patterns. Using ambulatory and out-patient facilities in the State of New York in conjunction with HCAHPS scores, we test our hypothesis that patient satisfaction scores induce inefficient prescribing behavior. We find hospital systems’ preferences for raising scores in the prescribing setting is not monotonic, with a 1-standard-deviation increase in the present year’s satisfaction score triggering a 4.16 percentage point increase in the likelihood of prescribing to a patient whom we do not expect to present a case commonly susceptible to overprescribing. Additionally, we find that the prescribing behavior of public hospitals is not as influenced by changes in their satisfaction scores as is the prescribing behavior of private hospitals. Finally, we investigate prescribing treatment towards subgroups of the patient population and find that women, racial minorities, and self-paying patients are the most vulnerable to experiencing differential treatment and inefficient prescribing patterns in response to changes in satisfaction scores.</p>
        
-       <img src="../images/india-economy-graph.png" alt="India economy graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
+       <img src="../images/thesis_graph.png" alt="India economy graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
      </div>
    </details>
