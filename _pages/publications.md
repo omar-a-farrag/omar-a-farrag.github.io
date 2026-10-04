@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
+<hr>
 
 **Addressing Pain Through Incentives: Patient Experience Rewards and Opioid Use** (with Qing Gong and Klara Peter) — \[[Paper](https://www.dropbox.com/scl/fi/zvn5zxpzn4b7f9mopmae3/Opioid-paper-v5.pdf?rlkey=o777822j7f3d1zi0f4ps6xhia&st=c5cen9zf&e=1&dl=0)\]
 <br> *Revise and resubmit, American Journal of Health Economics*
@@ -38,6 +39,7 @@ author_profile: true
 </details>
 
 ## Research In Progress
+<hr>
 
 **Who Bears the Sacrifice? Exploring Collection Across the Income Distribution** — \[[Proposal](#)\] 
 <details>
@@ -148,6 +150,7 @@ author_profile: true
 </details>
 
 ## Policy Papers & Other Writing
+<hr>
 
 **India and the Global Economy** (with Patrice Robitaille) — \[[FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/india-and-the-global-economy-20260408.html)\]
 <br> Farrag, Omar, and Patrice Robitaille (2026). "India and the Global Economy," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, April 08, 2026.
