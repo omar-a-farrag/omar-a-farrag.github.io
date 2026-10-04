@@ -11,4 +11,4 @@ I am a research assistant in the International Finance Division at the Federal R
 
 My primary research interests lie in firm behavior and competition, particularly with respect to innovation and health. I also hold secondary interests in macro modeling and trade.
 
-Email: omar.a.farrag[at]frb.gov  
+\textbf{Email}: omar.a.farrag[at]frb.gov  
