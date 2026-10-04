@@ -153,7 +153,7 @@ author_profile: true
 **India and the Global Economy** (with Patrice Robitaille) — \[[FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/india-and-the-global-economy-20260408.html)\]
 <br> Farrag, Omar, and Patrice Robitaille (2026). "India and the Global Economy," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, April 08, 2026.
 
-**Health or Satisfaction? Investigating the Link Between Patient Satisfaction Scores and Provider Prescribing Patterns** (undergrad Honors Thesis) — \[[UNC version]([https://www.federalreserve.gov/econres/notes/feds-notes/india-and-the-global-economy-20260408.html](https://cdr.lib.unc.edu/concern/honors_theses/3484zt643?locale=en))\] \[[Slides]([https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)](https://www.dropbox.com/scl/fi/f0ah2svtf2a2vojbkrxp3/Thesis-Defense-Omar-Farrag.pdf?rlkey=tkgv43yp6858u0lxxbthe3nvp&e=2&st=khgebvcl&dl=0)\]
+**Health or Satisfaction? Investigating the Link Between Patient Satisfaction Scores and Provider Prescribing Patterns** (undergrad Honors Thesis) — \[[UNC version](https://cdr.lib.unc.edu/concern/honors_theses/3484zt643?locale=en))\] \[[Slides](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\]
 <details>
   <summary>Abstract</summary>
   <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 15px; margin-bottom: 25px;">
