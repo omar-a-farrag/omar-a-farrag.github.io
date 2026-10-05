@@ -19,7 +19,7 @@ author_profile: true
      </div>
    </details>
 
-2. **In the Shadows of Their Shields: Spillovers of Physician Substitution and Practice Liability in the Era of the non-MD Provider** — \[[Paper](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\] \[Slides coming soon] \[[Codes](#)\]
+2. **In the Shadows of Their Shields: Spillovers of Physician Substitution and Practice Liability in the Era of the non-MD Provider** — \[[Paper](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\] \[Slides coming soon] \[[Codes](https://github.com/omar-a-farrag/NYS-NP-Project)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
@@ -29,7 +29,7 @@ author_profile: true
      </div>
    </details>
 
-3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5** — \[Paper coming soon]] \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] \[[Codes](#)\]
+3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5** — \[Paper coming soon]] \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/asean_nowcast)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
@@ -42,7 +42,7 @@ author_profile: true
 ## Research In Progress
 <hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
-1. **Patent Renewal and Creative Destruction** (with [Harun Alp](https://www.harunalp.net/)) — \[[Slides](https://www.dropbox.com/scl/fi/002d6lpjfp4x2adkt3x8d/Patents_and_Creative_Destruction-4.pdf?rlkey=kdhim0yo777xjzbn4edsukukj&st=nrxl5zov&e=1&dl=0)\] \[[Codes](#)\]
+1. **Patent Renewal and Creative Destruction** (with [Harun Alp](https://www.harunalp.net/)) — \[[Slides](https://www.dropbox.com/scl/fi/002d6lpjfp4x2adkt3x8d/Patents_and_Creative_Destruction-4.pdf?rlkey=kdhim0yo777xjzbn4edsukukj&st=nrxl5zov&e=1&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/patent_renewal_creative_destruction)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
@@ -56,7 +56,7 @@ author_profile: true
      </div>
    </details>
 
-2. **Explaining the Reporting Gap Reversal in US-China Trade** (with [Eva Van Leemput](https://sites.google.com/site/evavanleemput)) — \[[Slides](https://www.dropbox.com/scl/fi/ktc7gqgpomzkdpwlzmxt4/US_China_Trade_Balance__Copy_.pdf?rlkey=i1q7vilula6z9k784xcldqnb0&st=9xekaezm&e=1&dl=0)\] \[[Codes](#)\]
+2. **Explaining the Reporting Gap Reversal in US-China Trade** (with [Eva Van Leemput](https://sites.google.com/site/evavanleemput)) — \[[Slides](https://www.dropbox.com/scl/fi/ktc7gqgpomzkdpwlzmxt4/US_China_Trade_Balance__Copy_.pdf?rlkey=i1q7vilula6z9k784xcldqnb0&st=9xekaezm&e=1&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/us_china_bilateral_trade)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
@@ -70,7 +70,7 @@ author_profile: true
      </div>
    </details>
 
-3. **Sectoral Mobility Costs Across Heterogeneous Workers** (with [Gary Lyn](https://sites.google.com/site/garyanthonylyn/home)) — \[[Slides](https://www.dropbox.com/scl/fi/y85sac0d8xa3gbrs54eaz/Labor_Mobility_Costs.pdf?rlkey=o23e7yvbrolk5282f4epkknad&st=9774kx7e&e=1&dl=0)\] \[[Codes](#)\]
+3. **Sectoral Mobility Costs Across Heterogeneous Workers** (with [Gary Lyn](https://sites.google.com/site/garyanthonylyn/home)) — \[[Slides](https://www.dropbox.com/scl/fi/y85sac0d8xa3gbrs54eaz/Labor_Mobility_Costs.pdf?rlkey=o23e7yvbrolk5282f4epkknad&st=9774kx7e&e=1&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/labor_mobility)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
