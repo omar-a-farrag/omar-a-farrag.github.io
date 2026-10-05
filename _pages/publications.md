@@ -19,7 +19,7 @@ author_profile: true
      </div>
    </details>
 
-2. **In the Shadows of Their Shields: Spillovers of Physician Substitution and Practice Liability in the Era of the non-MD Provider** — \[[Paper](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\] \[Slides coming soon]] \[[Codes](#)\]
+2. **In the Shadows of Their Shields: Spillovers of Physician Substitution and Practice Liability in the Era of the non-MD Provider** — \[[Paper](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\] \[Slides coming soon] \[[Codes](#)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
