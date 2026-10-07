@@ -29,7 +29,7 @@ author_profile: true
      </div>
    </details>
 
-3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5** (with [Danilo Cascaldi-Garcia]([https://econ.unc.edu/people/peter-klara/](https://sites.google.com/site/cascaldigarcia/))) — \[Paper coming soon]] \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/asean_nowcast)\]
+3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5** (with [Danilo Cascaldi-Garcia](https://sites.google.com/site/cascaldigarcia/)) — \[Paper coming soon]] \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/asean_nowcast)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
