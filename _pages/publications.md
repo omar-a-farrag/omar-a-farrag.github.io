@@ -42,7 +42,7 @@ author_profile: true
 ## Research In Progress
 <hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
-1. **Patent Renewal and Creative Destruction** (with [Harun Alp](https://www.harunalp.net/)) — \[[Slides](https://www.dropbox.com/scl/fi/002d6lpjfp4x2adkt3x8d/Patents_and_Creative_Destruction-4.pdf?rlkey=kdhim0yo777xjzbn4edsukukj&st=nrxl5zov&e=1&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/patent_renewal_creative_destruction)\]
+1. **Patent Renewal and Creative Destruction** (with [Harun Alp](https://www.harunalp.net/)) — \[[Slides coming soon](*] \[[Codes](https://github.com/omar-a-farrag/patent_renewal_creative_destruction)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
