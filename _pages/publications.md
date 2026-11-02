@@ -19,7 +19,7 @@ author_profile: true
      </div>
    </details>
 
-2. **In the Shadows of Their Shields: Spillovers of Physician Substitution and Practice Liability in the Era of the non-MD Provider** — \[[Paper](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\] \[Slides coming soon] \[[Codes](https://github.com/omar-a-farrag/NYS-NP-Project)\]
+2. **In the Shadows of Their Shields: Spillovers of Physician Substitution and Practice Liability in the Era of the non-MD Provider** — \[[Paper](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\] \[[Slides](https://www.dropbox.com/scl/fi/icxxe7tv22g3ik3fk8qis/NYS_NP_Project_slides.pdf?rlkey=wcn1785ss7rdwku119jhgt2bc&st=ltkxkbp2&e=1&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/NYS-NP-Project)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
