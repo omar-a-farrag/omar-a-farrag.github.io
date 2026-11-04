@@ -29,11 +29,12 @@ author_profile: true
      </div>
    </details>
 
-3. **Taming the Tempest: Parsimonously Nowasting the ASEAN-5** (with [Danilo Cascaldi-Garcia](https://sites.google.com/site/cascaldigarcia/)) — \[Paper coming soon] \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/asean_nowcast)\]
+3. **Nowcasting Southeast Asia: Cross-Country Information in a Data-Scarce Environment** (with [Danilo Cascaldi-Garcia](https://sites.google.com/site/cascaldigarcia/)) — \[Paper coming soon] \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/asean_nowcast)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
-       <p style="margin-top: 0;">Abstract coming soon.</p>
+       <p style="margin-top: 0;">Southeast Asia has become a hub of global supply chains, including the electronics and semiconductor production that underpins the expansion of artificial intelligence. The economies of Indonesia, Malaysia, the Philippines, Thailand, and Vietnam account for most of the region's trade, with the United States and China as their largest export markets, so their output matters for the supply of goods elsewhere. Yet monitoring their activity in real time is hampered by short, sparse, and noisy data. We propose the first joint nowcasting framework for these economies as a multi-country dynamic factor model in which national and regional factors interact so that each economy's data informs forecasts for the others. Pseudo-real-time forecasts indicate that the joint model outperforms separately estimated country models and roughly halves the error of an autoregressive benchmark. Cross-country information thus fills gaps that domestic indicators leave open. Targeted variable selection, by correlation or elastic net, adds value where panels are shortest and noisiest, as in Vietnam. The framework thus offers a tool for monitoring in real time a region that has become central to global production networks.
+</p>
        
        <img src="../images/asean_nowcast_table2.png" alt="NPMA outcomes graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
      </div>
