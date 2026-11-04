@@ -19,7 +19,7 @@ author_profile: true
      </div>
    </details>
 
-2. **In the Shadows of Their Shields: Spillovers of Physician Substitution and Practice Liability in the Era of the non-MD Provider** — \[[Paper](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\] \[[Slides](https://www.dropbox.com/scl/fi/icxxe7tv22g3ik3fk8qis/NYS_NP_Project_slides.pdf?rlkey=wcn1785ss7rdwku119jhgt2bc&st=ltkxkbp2&e=1&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/NYS-NP-Project)\]
+2. **In the Shadows of Their Shields: Spillovers of Physician Substitution and Practice Liability in the Era of the non-MD Provider** — \[[Paper](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\] || \[[Slides](https://www.dropbox.com/scl/fi/icxxe7tv22g3ik3fk8qis/NYS_NP_Project_slides.pdf?rlkey=wcn1785ss7rdwku119jhgt2bc&st=ltkxkbp2&e=1&dl=0)\] || \[[Codes](https://github.com/omar-a-farrag/NYS-NP-Project)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
@@ -29,7 +29,7 @@ author_profile: true
      </div>
    </details>
 
-3. **Nowcasting Southeast Asia: Cross-Country Information in a Data-Scarce Environment** (with [Danilo Cascaldi-Garcia](https://sites.google.com/site/cascaldigarcia/)) — \[Paper coming soon] \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] \[[Codes](https://github.com/omar-a-farrag/asean_nowcast)\]
+3. **Nowcasting Southeast Asia: Cross-Country Information in a Data-Scarce Environment** (with [Danilo Cascaldi-Garcia](https://sites.google.com/site/cascaldigarcia/)) — \[Paper coming soon] || \[[Slides](https://www.dropbox.com/scl/fi/ijv29ndvb12m7mhp5k66s/ASEAN_Nowcasting_Draft_slides.pdf?rlkey=z4wc1l9rgs1tila534tnnc598&st=0pvcw2kg&dl=0)\] || \[[Codes](https://github.com/omar-a-farrag/asean_nowcast)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
@@ -114,7 +114,7 @@ author_profile: true
 1. **India and the Global Economy** (with [Patrice Robitaille](https://www.federalreserve.gov/econres/patrice-t-robitaille.htm)), April 2026 — \[[FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/india-and-the-global-economy-20260408.html)\]
    <br> Farrag, Omar, and Patrice Robitaille (2026). "India and the Global Economy," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, April 08, 2026.
 
-2. **Health or Satisfaction? Investigating the Link Between Patient Satisfaction Scores and Provider Prescribing Patterns** (undergraduate Honors Thesis), April 2024 — \[[UNC version](https://cdr.lib.unc.edu/concern/honors_theses/3484zt643?locale=en)\] \[[Slides](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\]
+2. **Health or Satisfaction? Investigating the Link Between Patient Satisfaction Scores and Provider Prescribing Patterns** (undergraduate Honors Thesis), April 2024 — \[[UNC version](https://cdr.lib.unc.edu/concern/honors_theses/3484zt643?locale=en)\] || \[[Slides](https://www.dropbox.com/scl/fi/4er0lwm99w4pmyhb5d096/NYS_NP_Project-1.pdf?rlkey=wb61ykvhlav9qu14bxawewl5v&st=kvugzyxz&e=2&dl=0)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
