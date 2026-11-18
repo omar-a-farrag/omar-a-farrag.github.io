@@ -123,3 +123,13 @@ author_profile: true
        <img src="../images/thesis_graph.png" alt="India economy graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
      </div>
    </details>
+
+3. **Applications of Differential Equations to Economics: The Solow-Swan Model**, December 2023 — \[[Manuscript](https://www.dropbox.com/scl/fi/emt2lg6m7s4s60hq78wuq/applications_of_odes_to_econ_omar_farrag.pdf?rlkey=3ua105wvgczfdhvltms3xjxt0&st=x8n6d5se&dl=0)\] 
+   <details style="margin-top: 5px; margin-bottom: 15px;">
+     <summary style="cursor: pointer;">Abstract</summary>
+     <div style="margin-top: 10px; margin-bottom: 10px;">
+       <p style="margin-top: 0;">When considering applications of ordinary and partial differential equations, discussions almost always revolve around the “traditional” sciences: biology, chemistry, physics, and their intersections. However, ODEs and PDEs are used to describe all sorts of phenomena in the real world outside of these fields. The purpose of this paper is to highlight the connection between our study of differential equations and economics, using the Nobel-Prize-winning Solow-Swan Model – which models the long-term growth of an economy – as an example. </p>
+       
+       <img src="../images/ode_to_econ.png" alt="India economy graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
+     </div>
+   </details>
