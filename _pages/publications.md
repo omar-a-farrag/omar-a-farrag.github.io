@@ -42,15 +42,11 @@ author_profile: true
 ## Research In Progress
 <hr style="border: none; border-bottom: 2px solid #8c8c8c; margin-top: -10px; margin-bottom: 15px;">
 
-1. **Patent Renewal and Creative Destruction** (with [Harun Alp](https://www.harunalp.net/)) — \[Extended Abstract coming soon] || \[[Slides](https://www.dropbox.com/scl/fi/duj8zd4u7pe5x2yf4633c/Patents_and_Creative_Destruction.pdf?rlkey=o8b3xmayjjg674f7miiy6s28i&st=lp8rkcrl&dl=0)\] || \[[Codes](https://github.com/omar-a-farrag/patent_renewal_creative_destruction)\]
+1. **Patent Renewal and Creative Destruction** (with [Harun Alp](https://www.harunalp.net/)) — \[[Extended Abstract](https://www.dropbox.com/scl/fi/ih183wxpftz08olm1rzwv/extended_abstract_11272026.pdf?rlkey=uqdpea06r44w6td61ykzz6sfc&st=ms5tsdhc&e=1&dl=0)\] || \[[Slides](https://www.dropbox.com/scl/fi/duj8zd4u7pe5x2yf4633c/Patents_and_Creative_Destruction.pdf?rlkey=o8b3xmayjjg674f7miiy6s28i&st=lp8rkcrl&dl=0)\] || \[[Codes](https://github.com/omar-a-farrag/patent_renewal_creative_destruction)\]
    <details style="margin-top: 5px; margin-bottom: 15px;">
      <summary style="cursor: pointer;">Abstract</summary>
      <div style="margin-top: 10px; margin-bottom: 10px;">
-       <ul style="margin-top: 0; padding-left: 20px;">
-         <li><strong>Question:</strong> What are determinants of patent renewal when under threat of creative destruction?</li>
-         <li><strong>Method:</strong> Constructing empirical measures of competition for incumbents and entrants (e.g. HHI, backward citation overlap; technology group overlap, and citation quality of rivals).</li>
-         <li><strong>Data:</strong> United States Patent and Trademark Office (USPTO) claims, 1980-2025.</li>
-       </ul>
+       <p style="margin-top: 0;">We use maintenance-fee decisions for 5.5 million U.S. patents to measure how the value of a patent to its owner varies with the owner’s size. Among patents with the same number of citations, small entities are 12 percentage points less likely than other owners to keep a patent until it expires, although they pay at most half the fee. Owners of large patent portfolios keep patents with few citations at the same rate as other owners but are 3 percentage points more likely to keep highly cited ones. Owners are less likely to keep a patent after similar new patents are granted only if these are highly cited. We interpret these facts with a model of firm dynamics in which a firm can use an innovation in several of its product lines, and better innovations in more lines. An innovation of high quality is then worth more to a firm with many product lines than to a firm with few, while an innovation of low quality, which can be used in only one line, is worth the same to both. The lower renewal rates of small entities instead require lower profits on all of their patents. Advantages that raise the value of all of a large firm’s patents, such as cheaper funding, would also raise the renewal of its weak patents.</p>
        
        <img src="../images/patent-renewal-graph.png" alt="Patent renewal graph" style="max-width: 100%; border: 1px solid #eee; border-radius: 4px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto;">
      </div>
